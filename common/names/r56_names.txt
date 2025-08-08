@@ -1,4 +1,4 @@
-﻿#####-----------------------------------------------------------> Mod by Sig "Greatexperiment" Altre
+#####-----------------------------------------------------------> Mod by Sig "Greatexperiment" Altre
 RAJ_FRA = {
 	male = {
 		names = { 
@@ -250,28 +250,13 @@ BHR = {
 }
 BLR = {
 	male = {
-		names = { Alaksandr Alexei Andrei Anton Boris Cyril Danya Dz'mitry Giorgi 
-					Ivan Janka Jury Lavr Leonid Leu Mikalai Paval Piotr Roman Ryhor 
-					Stanislaw Sergey Valery Vasily Viktar Uladzimir FLAdislav
-		}
+		names = { Arciom Aliaksiej Aliaksandr Lieanid Dzmitry Stanislaŭ Jaraslaŭ Paŭlo Paviel Piatruś Piatro Uladzislaŭ Vladimir Uladzimir Francišak Jury Kiryla Archip Hienadź Anton Miraslaŭ Jaŭhienij }
 	}
 	female = {
-		names = { Jelena Ludmila Ella Svetlana Margarita Elena Natalya Lydia Valentina Olga Alexandra Sofia Albina }
-		surnames = { 
-			Alexseyeva "Bulak-Balachowicza" Chibisova Denikina Dragomirova Golivina Gurkova 
-			Ivanova Kalinowska Kornilova Kolchaka Kuropatkina Lukashenka Menshikova Nakhimova 
-			Nebogatova Nikolaevicha Pavlova Putyatina Rozhestvenskaya Skobeleva Sukhoia 
-			Yegorova Vorontsova Zhauryda
+		names = { Aksana Aliaksandra Taciana Voĺha }
+	}
+	surnames = { Daškievič Šuškievič Vajciuškievič Mackievič Mickievič Misilievič Navicki Kalinoŭski Piliecki Rusiecki Sadoŭski Caŭloŭski Bialiaŭski Maliuk Lukašenka Jakavienka Haponienka Malašonak Majsienia Jurčenia }
 
-}		
-	}
-	surnames = { 
-				Alexseyev "Bulak-Balachowicz" Chibisov Denikin Dragomirov Golivin Gurko 
-				Ivanov Kalinowski Kornilov Kolchak Kuropatkin Lukashenka Menshikov Nakhimov 
-				Nebogatov Nikolaevich Pavlov Putyatin Rozhestvensky Skobelev Sukhoi 
-				Yegorov Vorontsov Zhauryd
-	
-	}
 	callsigns = { Anvil Hammer Fury Arrow Storm Bear "White Lily" Devil Eagle Falcon Fox Snowflake Greasy Guardian Gunman Hawk Hardball Howl Blizzard Husky Ice Killer Steel Iron Skull Striker Thunder Warrior Wardog Vodka }	
 	
 }
@@ -975,23 +960,29 @@ RGR = {
 
 RUT = {
 	male = {
-		names = { Aleksander Alexei Andrei Anton Boris Dmitry Fyodor Gennady 
-                                 Giorgi Grigoriy Igor Ilya Ivan Kirill Konstantin Lavr Leonid Lev Maxim 
-                                 Mikhail Nikita Nikolai Oleg Pavel Pyotr Roman Semyon Sergei 
-                                 Valery Vasily Viktor Vladimir Vladislav Yegor Yevgeny Yuri
+		names = {
+			Anatoliy Andriy Anton Artem Bohdan Borys Danylo Denys Dmytro Fedir Frants Havrylo Hennadiy Heorhiy Hryhoriy Ihor Illya Ivan Josyp Kazymy Kostyantyn Kuzma Kyrylo Leonid Lev Lyubomyr Maksym Matviy Musa Mykhailo Mykola Mykyta Myron Myroslav Nazar Nestor Oleh Oleksandr Oleksiy Omelyan Orest Ostap Panas Pavlo Petro Pylyp Roman Rostyslav Ruslan Sava Semen Serhiy Stanislav Stepan Svyatoslav Taras Teodor Trokhym Tymofiy Valeriy Vasyl Viktor Vitaliy Vladyslav Volodymyr Vsevolod Vyacheslav Yakiv Yaroslav Yehor Yevhen Yukhym Yuriy Zinoviy
+		}
+		surnames = {
+			Antonenko Bilyk Blyznyuk Bondarchuk Borysenko Demchuk Dmytruk Dorosh Haiduk Havrylenko Havrylyuk Hlushko Holub Horbenko Hrytsai Ivanov Ishchuk Kolisnyk Kostyuchenko Lyashenko Makarenko Mykytyuk Nahornyi Novak Osadchuk Ostapchuk Pavlov Petruk Protsenko Prykhodko Prysyazhnyuk Pylypenko Ruban Semenyuk Sereda Shevchuk Stadnyk Taranenko Tkachuk Tsymbalyuk Vasylyev Velychko Yakovenko Zaporozhets Zayets
+			Melnyk Shevchenko Boyko Kovalenko Bondarenko Tkachenko Kovalchuk Oliynyk Shevchuk Koval Polishchuk Bondar Tkachuk Moroz Marchenko Lysenko Rudenko Savchenko Petrenko Kravchuk Klymenko Pavlenko Savchuk Kuzmenko Shvets Havrylyuk Kravchenko Ponomarenko Melnychuk Vasylenko Mazur Khomenko Levchenko Karpenko Kushnir Sydorenko Romanyuk Martynyuk Kolomiyets Pavlyuk Tkach Lytvynenko Panchenko Kostenko Kulyk Kravets Yurchenko Bilous Dyachenko Semenyuk Kostyuk Ivanov Humenyuk Vovk Honcharenko Yakovenko Romanenko Prykhodko Kozak Kovtun Nazarenko Pylypenko Honchar Ishchenko Fedorenko Honcharuk Nesterenko Kolisnyk Demchenko Tereshchenko Tyshchenko Babenko Popovych Tarasenko Makarenko Marchuk Moskalenko Zinchenko Yatsenko Zhuk Lytvyn Herasymenko Kyrychenko Mishchenko Tymoshenko Shapoval Lutsenko Kondratyuk Shcherbyna Antonyuk Soroka Korniyenko Danylyuk Hordiyenko Martynenko Shulha Radchenko Korol Ostapenko Stepanenko Voloshyn Naumenko Taran Dmytrenko Babych Babiy Maksymenko Panasyuk Prokopenko Denysenko Didenko 
+			Melnychenko Onyshchenko Ivashchenko Kucherenko Boychuk Doroshenko Derkach Kucher Serhiyenko Serdyuk Hryshchenko Mykhailenko
+
 		}
 	}
 	female = {
-		names = { Jelena Ludmila Ella Svetlana Margarita Elena Natalya Lydia Valentina Olga Alexandra Sofia Albina }
-	}	
-	surnames = { 
-		Alexseyev Antonov Azarov Badanov Brusilov Budyonny Chibisov Denikin
-        Dragomirov Frolov Golivin Grishin Gurko Ivanov Ivannikov Konstantinov Kornilov 
-        Kolchak Kuropatkin Lazarev Makarov Menshikov Nakhimov Nebogatov
-        Nikolaevich Nikitin Ostrovsky Pavlov Putyatin Rozhestvensky Skobelev
-		Shuvalov Surkov Tukhachevsky Yegorov Yudenich Vorontsov Voroshilov Zavoyko
+		names = {
+			Anastasiya Ayshe Diana Halyna Hanna Iryna Ivanna Kateryna Khrystyna Kseniya Liliya Lina Lyudmyla Mariya Myroslava Nadiya Nataliya Nina Olena Oleksandra Olha Rayisa Roksolana Roza Ruslana Sofiya Svitlana Tetyana Valentyna Vladyslava Yana Yaroslava Yevheniya Yuliya Zoryana Zoya
+		}
+		surnames = {
+			Antonenko Bilyk Blyznyuk Bondarchuk Borysenko Demchuk Dmytruk Dorosh Haiduk Havrylenko Havrylyuk Hlushko Holub Horbenko Hrytsai Ivanova Ishchuk Kolisnyk Kostyuchenko Lyashenko Makarenko Mykytyuk Nahorna Novak Osadchuk Ostapchuk Pavlova Petruk Protsenko Prykhodko Prysyazhnyuk Pylypenko Ruban Semenyuk Sereda Shevchuk Stadnyk Taranenko Tkachuk Tsymbalyuk Vasylyeva Velychko Yakovenko Zaporozhets Zayets
+			Melnyk Shevchenko Boyko Kovalenko Bondarenko Tkachenko Kovalchuk Oliynyk Shevchuk Koval Polishchuk Bondar Tkachuk Moroz Marchenko Lysenko Rudenko Savchenko Petrenko Kravchuk Klymenko Pavlenko Savchuk Kuzmenko Shvets Havrylyuk Kravchenko Ponomarenko Melnychuk Vasylenko Mazur Khomenko Levchenko Karpenko Kushnir Sydorenko Romanyuk Martynyuk Kolomiyets Pavlyuk Tkach Lytvynenko Panchenko Kostenko Kulyk Kravets Yurchenko Bilous Dyachenko Semenyuk Kostyuk Ivanov Humenyuk Vovk Honcharenko Yakovenko Romanenko Prykhodko Kozak Kovtun Nazarenko Pylypenko Honchar Ishchenko Fedorenko Honcharuk Nesterenko Kolisnyk Demchenko Tereshchenko Tyshchenko Babenko Popovych Tarasenko Makarenko Marchuk Moskalenko Zinchenko Yatsenko Zhuk Lytvyn Herasymenko Kyrychenko Mishchenko Tymoshenko Shapoval Lutsenko Kondratyuk Shcherbyna Antonyuk Soroka Korniyenko Danylyuk Hordiyenko Martynenko Shulha Radchenko Korol Ostapenko Stepanenko Voloshyn Naumenko Taran Dmytrenko Babych Babiy Maksymenko Panasyuk Prokopenko Denysenko Didenko 
+			Melnychenko Onyshchenko Ivashchenko Kucherenko Boychuk Doroshenko Derkach Kucher Serhiyenko Serdyuk Hryshchenko Mykhailenko
+	
+
+		}
 	}
-	callsigns = { Anvil Hammer Fury Arrow Storm Bear "White Lily" Devil Eagle Falcon Fox Snowflake Greasy Guardian Gunman Hawk Hardball Howl Blizzard Husky Ice Killer Steel Iron Skull Striker Thunder Warrior Wardog Vodka }
+	callsigns = { Anvil Hammer Fury Arrow Storm Bear "White Lily" Devil Eagle Falcon Fox Snowflake Greasy Guardian Gunman Hawk Hardball Howl Blizzard Husky Ice Killer Steel Iron Skull Striker Thunder Warrior Wardog Horilka }
 }
 
 SAD = {
@@ -1131,60 +1122,74 @@ TNG = {
 
 UKR = {
 	male = {
-		names = { Aleksander Alexei Andrei Anton Boris Dmitry Fyodor Gennady 
-                                 Giorgi Grigoriy Igor Ilya Ivan Kirill Konstantin Lavr Leonid Lev Maxim 
-                                 Mikhail Nikita Nikolai Oleg Pavel Pyotr Roman Semyon Sergei 
-                                 Valery Vasily Viktor Vladimir Vladislav Yegor Yevgeny Yuri
+		names = {
+			Anatoliy Andriy Anton Artem Bohdan Borys Danylo Denys Dmytro Fedir Frants Havrylo Hennadiy Heorhiy Hryhoriy Ihor Illya Ivan Josyp Kazymy Kostyantyn Kuzma Kyrylo Leonid Lev Lyubomyr Maksym Matviy Musa Mykhailo Mykola Mykyta Myron Myroslav Nazar Nestor Oleh Oleksandr Oleksiy Omelyan Orest Ostap Panas Pavlo Petro Pylyp Roman Rostyslav Ruslan Sava Semen Serhiy Stanislav Stepan Svyatoslav Taras Teodor Trokhym Tymofiy Valeriy Vasyl Viktor Vitaliy Vladyslav Volodymyr Vsevolod Vyacheslav Yakiv Yaroslav Yehor Yevhen Yukhym Yuriy Zinoviy
+		}
+		surnames = {
+			Antonenko Bilyk Blyznyuk Bondarchuk Borysenko Demchuk Dmytruk Dorosh Haiduk Havrylenko Havrylyuk Hlushko Holub Horbenko Hrytsai Ivanov Ishchuk Kolisnyk Kostyuchenko Lyashenko Makarenko Mykytyuk Nahornyi Novak Osadchuk Ostapchuk Pavlov Petruk Protsenko Prykhodko Prysyazhnyuk Pylypenko Ruban Semenyuk Sereda Shevchuk Stadnyk Taranenko Tkachuk Tsymbalyuk Vasylyev Velychko Yakovenko Zaporozhets Zayets
+			Melnyk Shevchenko Boyko Kovalenko Bondarenko Tkachenko Kovalchuk Oliynyk Shevchuk Koval Polishchuk Bondar Tkachuk Moroz Marchenko Lysenko Rudenko Savchenko Petrenko Kravchuk Klymenko Pavlenko Savchuk Kuzmenko Shvets Havrylyuk Kravchenko Ponomarenko Melnychuk Vasylenko Mazur Khomenko Levchenko Karpenko Kushnir Sydorenko Romanyuk Martynyuk Kolomiyets Pavlyuk Tkach Lytvynenko Panchenko Kostenko Kulyk Kravets Yurchenko Bilous Dyachenko Semenyuk Kostyuk Ivanov Humenyuk Vovk Honcharenko Yakovenko Romanenko Prykhodko Kozak Kovtun Nazarenko Pylypenko Honchar Ishchenko Fedorenko Honcharuk Nesterenko Kolisnyk Demchenko Tereshchenko Tyshchenko Babenko Popovych Tarasenko Makarenko Marchuk Moskalenko Zinchenko Yatsenko Zhuk Lytvyn Herasymenko Kyrychenko Mishchenko Tymoshenko Shapoval Lutsenko Kondratyuk Shcherbyna Antonyuk Soroka Korniyenko Danylyuk Hordiyenko Martynenko Shulha Radchenko Korol Ostapenko Stepanenko Voloshyn Naumenko Taran Dmytrenko Babych Babiy Maksymenko Panasyuk Prokopenko Denysenko Didenko 
+			Melnychenko Onyshchenko Ivashchenko Kucherenko Boychuk Doroshenko Derkach Kucher Serhiyenko Serdyuk Hryshchenko Mykhailenko
+
 		}
 	}
 	female = {
-		names = { Jelena Ludmila Ella Svetlana Margarita Elena Natalya Lydia Valentina Olga Alexandra Sofia Albina }
-		surnames = { 
-			Alexseyeva Antonova Azarova Badanova Chibisova Denikina 
-            Dragomirova Frolova Golivina Grishina Gurkova Ivanova Ivannikova Konstantinova Kornilova 
-            Kolchaka Kuropatkina Lazareva Makarova Menshikova Nakhimova Nebogatova 
-            Nikolaevichaya Nikitina Ostrovskaya Pavlova Putyatina Rozhestvenskaya Skobeleva 
-            Shuvalova Surkova Yegorova Yudenicha Vorontsova Zavoykaya
-		}		
-	}	
-	surnames = { 
-			Alexseyev Antonov Azarov Badanov Chibisov Denikin 
-                        Dragomirov Frolov Golivin Grishin Gurko Ivanov Ivannikov Konstantinov Kornilov 
-                        Kolchak Kuropatkin Lazarev Makarov Menshikov Nakhimov Nebogatov 
-                        Nikolaevich Nikitin Ostrovsky Pavlov Putyatin Rozhestvensky Skobelev 
-                        Shuvalov Surkov Yegorov Yudenich Vorontsov Zavoyko
+		names = {
+			Anastasiya Ayshe Diana Halyna Hanna Iryna Ivanna Kateryna Khrystyna Kseniya Liliya Lina Lyudmyla Mariya Myroslava Nadiya Nataliya Nina Olena Oleksandra Olha Rayisa Roksolana Roza Ruslana Sofiya Svitlana Tetyana Valentyna Vladyslava Yana Yaroslava Yevheniya Yuliya Zoryana Zoya
+		}
+		surnames = {
+			Antonenko Bilyk Blyznyuk Bondarchuk Borysenko Demchuk Dmytruk Dorosh Haiduk Havrylenko Havrylyuk Hlushko Holub Horbenko Hrytsai Ivanova Ishchuk Kolisnyk Kostyuchenko Lyashenko Makarenko Mykytyuk Nahorna Novak Osadchuk Ostapchuk Pavlova Petruk Protsenko Prykhodko Prysyazhnyuk Pylypenko Ruban Semenyuk Sereda Shevchuk Stadnyk Taranenko Tkachuk Tsymbalyuk Vasylyeva Velychko Yakovenko Zaporozhets Zayets
+			Melnyk Shevchenko Boyko Kovalenko Bondarenko Tkachenko Kovalchuk Oliynyk Shevchuk Koval Polishchuk Bondar Tkachuk Moroz Marchenko Lysenko Rudenko Savchenko Petrenko Kravchuk Klymenko Pavlenko Savchuk Kuzmenko Shvets Havrylyuk Kravchenko Ponomarenko Melnychuk Vasylenko Mazur Khomenko Levchenko Karpenko Kushnir Sydorenko Romanyuk Martynyuk Kolomiyets Pavlyuk Tkach Lytvynenko Panchenko Kostenko Kulyk Kravets Yurchenko Bilous Dyachenko Semenyuk Kostyuk Ivanov Humenyuk Vovk Honcharenko Yakovenko Romanenko Prykhodko Kozak Kovtun Nazarenko Pylypenko Honchar Ishchenko Fedorenko Honcharuk Nesterenko Kolisnyk Demchenko Tereshchenko Tyshchenko Babenko Popovych Tarasenko Makarenko Marchuk Moskalenko Zinchenko Yatsenko Zhuk Lytvyn Herasymenko Kyrychenko Mishchenko Tymoshenko Shapoval Lutsenko Kondratyuk Shcherbyna Antonyuk Soroka Korniyenko Danylyuk Hordiyenko Martynenko Shulha Radchenko Korol Ostapenko Stepanenko Voloshyn Naumenko Taran Dmytrenko Babych Babiy Maksymenko Panasyuk Prokopenko Denysenko Didenko 
+			Melnychenko Onyshchenko Ivashchenko Kucherenko Boychuk Doroshenko Derkach Kucher Serhiyenko Serdyuk Hryshchenko Mykhailenko
 	
+
+		}
 	}
-	callsigns = { Anvil Hammer Fury Arrow Storm Bear "White Lily" Devil Eagle Falcon Fox Snowflake Greasy Guardian Gunman Hawk Hardball Howl Blizzard Husky Ice Killer Steel Iron Skull Striker Thunder Warrior Wardog Vodka }
+	callsigns = { Anvil Hammer Fury Arrow Storm Bear "White Lily" Devil Eagle Falcon Fox Snowflake Greasy Guardian Gunman Hawk Hardball Howl Blizzard Husky Ice Killer Steel Iron Skull Striker Thunder Warrior Wardog Horilka }
 }
 
 DOU = {
 	male = {
-		names = { Aleksander Alexei Andrei Anton Boris Dmitry Fyodor Gennady 
-                                 Giorgi Grigoriy Igor Ilya Ivan Kirill Konstantin Lavr Leonid Lev Maxim 
-                                 Mikhail Nikita Nikolai Oleg Pavel Pyotr Roman Semyon Sergei 
-                                 Valery Vasily Viktor Vladimir Vladislav Yegor Yevgeny Yuri
+		names = {
+			Anatoliy Andriy Anton Artem Bohdan Borys Danylo Denys Dmytro Fedir Frants Havrylo Hennadiy Heorhiy Hryhoriy Ihor Illya Ivan Josyp Kazymy Kostyantyn Kuzma Kyrylo Leonid Lev Lyubomyr Maksym Matviy Musa Mykhailo Mykola Mykyta Myron Myroslav Nazar Nestor Oleh Oleksandr Oleksiy Omelyan Orest Ostap Panas Pavlo Petro Pylyp Roman Rostyslav Ruslan Sava Semen Serhiy Stanislav Stepan Svyatoslav Taras Teodor Trokhym Tymofiy Valeriy Vasyl Viktor Vitaliy Vladyslav Volodymyr Vsevolod Vyacheslav Yakiv Yaroslav Yehor Yevhen Yukhym Yuriy Zinoviy
+		}
+		surnames = {
+			Antonenko Bilyk Blyznyuk Bondarchuk Borysenko Demchuk Dmytruk Dorosh Haiduk Havrylenko Havrylyuk Hlushko Holub Horbenko Hrytsai Ivanov Ishchuk Kolisnyk Kostyuchenko Lyashenko Makarenko Mykytyuk Nahornyi Novak Osadchuk Ostapchuk Pavlov Petruk Protsenko Prykhodko Prysyazhnyuk Pylypenko Ruban Semenyuk Sereda Shevchuk Stadnyk Taranenko Tkachuk Tsymbalyuk Vasylyev Velychko Yakovenko Zaporozhets Zayets
+			Melnyk Shevchenko Boyko Kovalenko Bondarenko Tkachenko Kovalchuk Oliynyk Shevchuk Koval Polishchuk Bondar Tkachuk Moroz Marchenko Lysenko Rudenko Savchenko Petrenko Kravchuk Klymenko Pavlenko Savchuk Kuzmenko Shvets Havrylyuk Kravchenko Ponomarenko Melnychuk Vasylenko Mazur Khomenko Levchenko Karpenko Kushnir Sydorenko Romanyuk Martynyuk Kolomiyets Pavlyuk Tkach Lytvynenko Panchenko Kostenko Kulyk Kravets Yurchenko Bilous Dyachenko Semenyuk Kostyuk Ivanov Humenyuk Vovk Honcharenko Yakovenko Romanenko Prykhodko Kozak Kovtun Nazarenko Pylypenko Honchar Ishchenko Fedorenko Honcharuk Nesterenko Kolisnyk Demchenko Tereshchenko Tyshchenko Babenko Popovych Tarasenko Makarenko Marchuk Moskalenko Zinchenko Yatsenko Zhuk Lytvyn Herasymenko Kyrychenko Mishchenko Tymoshenko Shapoval Lutsenko Kondratyuk Shcherbyna Antonyuk Soroka Korniyenko Danylyuk Hordiyenko Martynenko Shulha Radchenko Korol Ostapenko Stepanenko Voloshyn Naumenko Taran Dmytrenko Babych Babiy Maksymenko Panasyuk Prokopenko Denysenko Didenko 
+			Melnychenko Onyshchenko Ivashchenko Kucherenko Boychuk Doroshenko Derkach Kucher Serhiyenko Serdyuk Hryshchenko Mykhailenko
+
 		}
 	}
 	female = {
-		names = { Jelena Ludmila Ella Svetlana Margarita Elena Natalya Lydia Valentina Olga Alexandra Sofia Albina }
-		surnames = { 
-			Alexseyeva Antonova Azarova Badanova Chibisova Denikina 
-            Dragomirova Frolova Golivina Grishina Gurkova Ivanova Ivannikova Konstantinova Kornilova 
-            Kolchaka Kuropatkina Lazareva Makarova Menshikova Nakhimova Nebogatova 
-            Nikolaevichaya Nikitina Ostrovskaya Pavlova Putyatina Rozhestvenskaya Skobeleva 
-            Shuvalova Surkova Yegorova Yudenicha Vorontsova Zavoykaya
-		}		
-	}	
-	surnames = { 
-			Alexseyev Antonov Azarov Badanov Chibisov Denikin 
-                        Dragomirov Frolov Golivin Grishin Gurko Ivanov Ivannikov Konstantinov Kornilov 
-                        Kolchak Kuropatkin Lazarev Makarov Menshikov Nakhimov Nebogatov 
-                        Nikolaevich Nikitin Ostrovsky Pavlov Putyatin Rozhestvensky Skobelev 
-                        Shuvalov Surkov Yegorov Yudenich Vorontsov Zavoyko
+		names = {
+			Anastasiya Ayshe Diana Halyna Hanna Iryna Ivanna Kateryna Khrystyna Kseniya Liliya Lina Lyudmyla Mariya Myroslava Nadiya Nataliya Nina Olena Oleksandra Olha Rayisa Roksolana Roza Ruslana Sofiya Svitlana Tetyana Valentyna Vladyslava Yana Yaroslava Yevheniya Yuliya Zoryana Zoya
+		}
+		surnames = {
+			Antonenko Bilyk Blyznyuk Bondarchuk Borysenko Demchuk Dmytruk Dorosh Haiduk Havrylenko Havrylyuk Hlushko Holub Horbenko Hrytsai Ivanova Ishchuk Kolisnyk Kostyuchenko Lyashenko Makarenko Mykytyuk Nahorna Novak Osadchuk Ostapchuk Pavlova Petruk Protsenko Prykhodko Prysyazhnyuk Pylypenko Ruban Semenyuk Sereda Shevchuk Stadnyk Taranenko Tkachuk Tsymbalyuk Vasylyeva Velychko Yakovenko Zaporozhets Zayets
+			Melnyk Shevchenko Boyko Kovalenko Bondarenko Tkachenko Kovalchuk Oliynyk Shevchuk Koval Polishchuk Bondar Tkachuk Moroz Marchenko Lysenko Rudenko Savchenko Petrenko Kravchuk Klymenko Pavlenko Savchuk Kuzmenko Shvets Havrylyuk Kravchenko Ponomarenko Melnychuk Vasylenko Mazur Khomenko Levchenko Karpenko Kushnir Sydorenko Romanyuk Martynyuk Kolomiyets Pavlyuk Tkach Lytvynenko Panchenko Kostenko Kulyk Kravets Yurchenko Bilous Dyachenko Semenyuk Kostyuk Ivanov Humenyuk Vovk Honcharenko Yakovenko Romanenko Prykhodko Kozak Kovtun Nazarenko Pylypenko Honchar Ishchenko Fedorenko Honcharuk Nesterenko Kolisnyk Demchenko Tereshchenko Tyshchenko Babenko Popovych Tarasenko Makarenko Marchuk Moskalenko Zinchenko Yatsenko Zhuk Lytvyn Herasymenko Kyrychenko Mishchenko Tymoshenko Shapoval Lutsenko Kondratyuk Shcherbyna Antonyuk Soroka Korniyenko Danylyuk Hordiyenko Martynenko Shulha Radchenko Korol Ostapenko Stepanenko Voloshyn Naumenko Taran Dmytrenko Babych Babiy Maksymenko Panasyuk Prokopenko Denysenko Didenko 
+			Melnychenko Onyshchenko Ivashchenko Kucherenko Boychuk Doroshenko Derkach Kucher Serhiyenko Serdyuk Hryshchenko Mykhailenko
 	
+
+		}
 	}
-	callsigns = { Anvil Hammer Fury Arrow Storm Bear "White Lily" Devil Eagle Falcon Fox Snowflake Greasy Guardian Gunman Hawk Hardball Howl Blizzard Husky Ice Killer Steel Iron Skull Striker Thunder Warrior Wardog Vodka }
+	callsigns = { Anvil Hammer Fury Arrow Storm Bear "White Lily" Devil Eagle Falcon Fox Snowflake Greasy Guardian Gunman Hawk Hardball Howl Blizzard Husky Ice Killer Steel Iron Skull Striker Thunder Warrior Wardog Horilka }
+}
+
+KUB = {
+	male = {
+		names = {
+			Andrij Anton Artem Borys Denys Dmytro Fedir Havrylo Henadij Heorhij Hryhorij Ivan Josyp Kazymyr Kostyantyn Kuzma Leontij Maksym Musa Mykola Mykyta Oleh Oleksandr Omelyan Pavlo Pylyp Sava Serhij Stanislav Svyatoslav Trokhym Volodymyr Yaroslav Vitalij Yehor Yukhym Aleksander Alexei Andrei Anton Boris Dmitry Fyodor Gennady Giorgi Grigoriy Igor Ilya Ivan Kirill Konstantin Lavr Leonid Lev Maxim Mikhail Nikita Nikolai Oleg Pavel Pyotr Roman Semyon Sergei Valery Vasily Viktor Vladimir Vladislav Yegor Yevgeny Yuri
+		}
+	}
+	female = {
+		names = {
+			Anastasiya Ayshe Halyna Hanna Ivanna Lina Lyudmyla Nina Olha Olena Oleksandra Kseniya Rayisa Ruslana Tetyana Vladyslava Yevheniya Yuliya Zoya
+		}
+	}
+	surnames = {
+		Antonenko Bilyk Blyznyuk Bondarchuk Borysenko Demchuk Dmytruk Dorosh Hajduk Havrylenko Havrylyuk Hlushko Holub Horbenko Hrytsaj Ivanov Ishchuk Kolisnyk Kostyuchenko Lyashenko Makarenko Mykytyuk Nahornyj Novak Osadchuk Ostapchuk Pavlov Petruk Protsenko Prykhodko Prysyazhnyuk Pylypenko Ruban Semenyuk Sereda Shevchuk Stadnyk Taranenko Tkachuk Tsymbalyuk Vasylyev Velychko Yakovenko Zaporozhets Zayets Alexseyev Antonov Azarov Badanov Brusilov Budyonny Chibisov Denikin Dragomirov Frolov Golivin Grishin Gurko Ivanov Ivannikov Konev Konstantinov Kornilov         Kolchak Kuropatkin Lazarev Makarov Menshikov Nakhimov Nebogatov Nikolaevich Nikitin Ostrovsky Pavlov Putyatin Romanov Rozhestvensky Skobelev Shuvalov Surkov Tukhachevsky Yegorov Yudenich Vorontsov Voroshilov Zavoyko
+
+	}
+	callsigns = { Anvil Hammer Fury Arrow Storm Bear "White Lily" Devil Eagle Falcon Fox Snowflake Greasy Guardian Gunman Hawk Hardball Howl Blizzard Husky Ice Killer Steel Iron Skull Striker Thunder Warrior Wardog Horilka Vodka }
 }
 
 UZB = {
@@ -1237,22 +1242,14 @@ FLA = {
 CRI = {
 	male = {
 		names = {  
-			Abdullah Abdulhamid Abdulkerim Abdulrahim Ahmet Akif Ali Arif 
-			Bahaeddin Bekir Cemal Cevad Celaleddin Cevdet Daud Edhem Emin Enver 
-			Fahri Fevzi Ferid Fuat Hafiz Hamza Halil Halim Hasan Hayrullah Husrev
-			Ibrahim Iskender Ismet Izzet Kamil Kazim Kemal Lutfi
-			Mahmut Mehmet Mithat Muhtar Murat Musa Mustafa 
-			Namik Nazim Nurettin Nuri Numan Omar Osman 
-			Pertev Rauf Receb Reshad Refet Rifat Riza 
-			Sabaheddin Said Selim Shevket Shukru Suleyman 
-			Talat Tevfik Vefik Yusuf Yunus Ziya Ziyauddin
+			Ablâziz Ahtem Amet Asan Bekir Fikret İbraim İlmi Memet Redvan Refat Refiyîk Remzi Seit Seitnebi Seitümer Server Sîdîyîk Sinaver Ümer Üsein Üzeir Vait
 		 }
 	}
 	female = {
-		names = { }
+		names = { Adilye Alie Alime Anife Dzhemile Ediye Fatime Feruze Maiye Medine Melvade Pakize Rushena Şefiqa Sultanie Uriye Vaspie Zekie Zore }
 	}
 	surnames = { 
-		Altay Karabekir Cakmak Gürman Orbay Subasi Erkilet Koval Omurtak Özsü Atli Gökberk
+		Abdullaev Abdurakhmanov Akhtemov Aliev Ametov Azizov Bahşış Bakhshish Bekirov Devletov Emirov Ibragimov Ibraimov Ilyasov Isaev Kadyrov Kamilov Khaybulaev Kyrbanov Mamutov Memetov Muratov Osmanov Rakhimov Ramazanov Refatov Serverov Sharipov Useinov Usmanov Vaitov Yosopov Yunusov Yusupov Altay Karabekir Cakmak Gürman Orbay Subasi Erkilet Koval Omurtak Özsü Atli Gökberk
 	
 	}
 	callsigns = { }
@@ -1427,31 +1424,29 @@ KAR = {
 
 GUK = {
 	male = {
-		names = { Aleksander Alexei Andrei Anton Boris Dmitry Fyodor Gennady 
-                                 Giorgi Grigoriy Igor Ilya Ivan Kirill Konstantin Lavr Leonid Lev Maxim 
-                                 Mikhail Nikita Nikolai Oleg Pavel Pyotr Roman Semyon Sergei 
-                                 Valery Vasily Viktor Vladimir Vladislav Yegor Yevgeny Yuri
+		names = {
+			Anatoliy Andriy Anton Artem Bohdan Borys Danylo Denys Dmytro Fedir Frants Havrylo Hennadiy Heorhiy Hryhoriy Ihor Illya Ivan Josyp Kazymy Kostyantyn Kuzma Kyrylo Leonid Lev Lyubomyr Maksym Matviy Musa Mykhailo Mykola Mykyta Myron Myroslav Nazar Nestor Oleh Oleksandr Oleksiy Omelyan Orest Ostap Panas Pavlo Petro Pylyp Roman Rostyslav Ruslan Sava Semen Serhiy Stanislav Stepan Svyatoslav Taras Teodor Trokhym Tymofiy Valeriy Vasyl Viktor Vitaliy Vladyslav Volodymyr Vsevolod Vyacheslav Yakiv Yaroslav Yehor Yevhen Yukhym Yuriy Zinoviy
+		}
+		surnames = {
+			Antonenko Bilyk Blyznyuk Bondarchuk Borysenko Demchuk Dmytruk Dorosh Haiduk Havrylenko Havrylyuk Hlushko Holub Horbenko Hrytsai Ivanov Ishchuk Kolisnyk Kostyuchenko Lyashenko Makarenko Mykytyuk Nahornyi Novak Osadchuk Ostapchuk Pavlov Petruk Protsenko Prykhodko Prysyazhnyuk Pylypenko Ruban Semenyuk Sereda Shevchuk Stadnyk Taranenko Tkachuk Tsymbalyuk Vasylyev Velychko Yakovenko Zaporozhets Zayets
+			Melnyk Shevchenko Boyko Kovalenko Bondarenko Tkachenko Kovalchuk Oliynyk Shevchuk Koval Polishchuk Bondar Tkachuk Moroz Marchenko Lysenko Rudenko Savchenko Petrenko Kravchuk Klymenko Pavlenko Savchuk Kuzmenko Shvets Havrylyuk Kravchenko Ponomarenko Melnychuk Vasylenko Mazur Khomenko Levchenko Karpenko Kushnir Sydorenko Romanyuk Martynyuk Kolomiyets Pavlyuk Tkach Lytvynenko Panchenko Kostenko Kulyk Kravets Yurchenko Bilous Dyachenko Semenyuk Kostyuk Ivanov Humenyuk Vovk Honcharenko Yakovenko Romanenko Prykhodko Kozak Kovtun Nazarenko Pylypenko Honchar Ishchenko Fedorenko Honcharuk Nesterenko Kolisnyk Demchenko Tereshchenko Tyshchenko Babenko Popovych Tarasenko Makarenko Marchuk Moskalenko Zinchenko Yatsenko Zhuk Lytvyn Herasymenko Kyrychenko Mishchenko Tymoshenko Shapoval Lutsenko Kondratyuk Shcherbyna Antonyuk Soroka Korniyenko Danylyuk Hordiyenko Martynenko Shulha Radchenko Korol Ostapenko Stepanenko Voloshyn Naumenko Taran Dmytrenko Babych Babiy Maksymenko Panasyuk Prokopenko Denysenko Didenko 
+			Melnychenko Onyshchenko Ivashchenko Kucherenko Boychuk Doroshenko Derkach Kucher Serhiyenko Serdyuk Hryshchenko Mykhailenko
+
 		}
 	}
 	female = {
-		names = { Jelena Ludmila Ella Svetlana Margarita Elena Natalya Lydia Valentina Olga Alexandra Sofia Albina }
-		surnames = { 
-			Alexseyeva Antonova Azarova Badanova Chibisova Denikina 
-            Dragomirova Frolova Golivina Grishina Gurkova Ivanova Ivannikova Konstantinova Kornilova 
-            Kolchaka Kuropatkina Lazareva Makarova Menshikova Nakhimova Nebogatova 
-            Nikolaevichaya Nikitina Ostrovskaya Pavlova Putyatina Rozhestvenskaya Skobeleva 
-            Shuvalova Surkova Yegorova Yudenicha Vorontsova Zavoykaya
-		}		
-	}	
-	surnames = { 
-			Alexseyev Antonov Azarov Badanov Chibisov Denikin 
-                        Dragomirov Frolov Golivin Grishin Gurko Ivanov Ivannikov Konstantinov Kornilov 
-                        Kolchak Kuropatkin Lazarev Makarov Menshikov Nakhimov Nebogatov 
-                        Nikolaevich Nikitin Ostrovsky Pavlov Putyatin Rozhestvensky Skobelev 
-                        Shuvalov Surkov Yegorov Yudenich Vorontsov Zavoyko
+		names = {
+			Anastasiya Ayshe Diana Halyna Hanna Iryna Ivanna Kateryna Khrystyna Kseniya Liliya Lina Lyudmyla Mariya Myroslava Nadiya Nataliya Nina Olena Oleksandra Olha Rayisa Roksolana Roza Ruslana Sofiya Svitlana Tetyana Valentyna Vladyslava Yana Yaroslava Yevheniya Yuliya Zoryana Zoya
+		}
+		surnames = {
+			Antonenko Bilyk Blyznyuk Bondarchuk Borysenko Demchuk Dmytruk Dorosh Haiduk Havrylenko Havrylyuk Hlushko Holub Horbenko Hrytsai Ivanova Ishchuk Kolisnyk Kostyuchenko Lyashenko Makarenko Mykytyuk Nahorna Novak Osadchuk Ostapchuk Pavlova Petruk Protsenko Prykhodko Prysyazhnyuk Pylypenko Ruban Semenyuk Sereda Shevchuk Stadnyk Taranenko Tkachuk Tsymbalyuk Vasylyeva Velychko Yakovenko Zaporozhets Zayets
+			Melnyk Shevchenko Boyko Kovalenko Bondarenko Tkachenko Kovalchuk Oliynyk Shevchuk Koval Polishchuk Bondar Tkachuk Moroz Marchenko Lysenko Rudenko Savchenko Petrenko Kravchuk Klymenko Pavlenko Savchuk Kuzmenko Shvets Havrylyuk Kravchenko Ponomarenko Melnychuk Vasylenko Mazur Khomenko Levchenko Karpenko Kushnir Sydorenko Romanyuk Martynyuk Kolomiyets Pavlyuk Tkach Lytvynenko Panchenko Kostenko Kulyk Kravets Yurchenko Bilous Dyachenko Semenyuk Kostyuk Ivanov Humenyuk Vovk Honcharenko Yakovenko Romanenko Prykhodko Kozak Kovtun Nazarenko Pylypenko Honchar Ishchenko Fedorenko Honcharuk Nesterenko Kolisnyk Demchenko Tereshchenko Tyshchenko Babenko Popovych Tarasenko Makarenko Marchuk Moskalenko Zinchenko Yatsenko Zhuk Lytvyn Herasymenko Kyrychenko Mishchenko Tymoshenko Shapoval Lutsenko Kondratyuk Shcherbyna Antonyuk Soroka Korniyenko Danylyuk Hordiyenko Martynenko Shulha Radchenko Korol Ostapenko Stepanenko Voloshyn Naumenko Taran Dmytrenko Babych Babiy Maksymenko Panasyuk Prokopenko Denysenko Didenko 
+			Melnychenko Onyshchenko Ivashchenko Kucherenko Boychuk Doroshenko Derkach Kucher Serhiyenko Serdyuk Hryshchenko Mykhailenko
 	
+
+		}
 	}
-	callsigns = { Anvil Hammer Fury Arrow Storm Bear "White Lily" Devil Eagle Falcon Fox Snowflake Greasy Guardian Gunman Hawk Hardball Howl Blizzard Husky Ice Killer Steel Iron Skull Striker Thunder Warrior Wardog Vodka }
+	callsigns = { Anvil Hammer Fury Arrow Storm Bear "White Lily" Devil Eagle Falcon Fox Snowflake Greasy Guardian Gunman Hawk Hardball Howl Blizzard Husky Ice Killer Steel Iron Skull Striker Thunder Warrior Wardog Horilka }
 }
 
 BUR = {
