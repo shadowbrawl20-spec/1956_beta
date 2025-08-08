@@ -7,7 +7,7 @@ characters = {
 			}
 		}
 		country_leader={
-			ideology = conservatism
+			ideology = socialism
 			traits = {
 				our_right_to_survive
 				democratic_defender
@@ -81,14 +81,14 @@ characters = {
 				large = "gfx/leaders/RUT/r56_portrait_UKR_Stepan_Bandera.dds"
 			}
 		}
-		country_leader = {
-			ideology = fascism_ideology
-			traits = {
-				fascist_militia_leader
-			}
-			expire = "1965.1.1"
-			id = -1
-		}
+	#	country_leader = {
+	#		ideology = fascism_ideology
+	#		traits = {
+	#			fascist_militia_leader
+	#		}
+	#		expire = "1965.1.1"
+	#		id = -1
+	#	}
 	#	corps_commander = {
 	#		traits = { harsh_leader war_hero unpopular }
 	#		skill = 3
@@ -552,13 +552,34 @@ characters = {
 				small = GFX_idea_generic_BEL_generic_land_2
 			}
 		}
+		country_leader = {
+			ideology = fascism_ideology
+			traits = {
+				fascist_militia_leader
+			}
+			expire = "1938.5.27"
+			id = -1
+		}
+		#country_leader = {
+		#	ideology = conservatism_n
+		#	traits = {
+		#		
+		#	}
+		#	expire = "1938.5.27"
+		#	id = -1
+		#}
 		corps_commander = {
 			traits = { infantry_officer war_hero politically_connected }
-			skill = 2
+			skill = 3
 			attack_skill = 2
 			defense_skill = 1
 			planning_skill = 2
-			logistics_skill = 1
+			logistics_skill = 3
+			visible = {
+				NOT = {
+					has_government = communism
+				}
+			}
 		}
 		advisor={
 			slot = high_command
